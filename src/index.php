@@ -12,7 +12,7 @@
   <div class="carousel-inner">
     <div class="carousel-item active">
         <div class="slideshow_1">
-           <img src="<?php echo ROOT_URL; ?>/images/Lexus.png" alt="" class="slideshow_img">
+           <!-- <img src="<?php echo ROOT_URL; ?>/images/Lexus.png" alt="" class="slideshow_img"> -->
               <div class="slideshow_heading">
                         <h3 class="slideshow_h3">Hometech Contractros Limited</h3>
                         <p class="slideshow_content"> 
@@ -30,7 +30,7 @@
 
     <div class="carousel-item">
         <div class="slideshow_wrapper">
-            <img src="<?php echo ROOT_URL; ?>/images/Batt.png" alt="" class="slideshow_img">
+            <!-- <img src="<?php echo ROOT_URL; ?>/images/Batt.png" alt="" class="slideshow_img"> -->
             <div class="slideshow_2">
             <div class="slideshow_heading">
                   <h3 class="slideshow_h3">Internet Services <i class="icon-basic-helm"></i> </h3>
@@ -46,7 +46,7 @@
     </div>
 
     <div class="carousel-item">
-      <img src="<?php echo ROOT_URL; ?>/images/Lean.png" alt="" class="slideshow_img">
+      <!-- <img src="<?php echo ROOT_URL; ?>/images/Lean.png" alt="" class="slideshow_img"> -->
              <div class="slideshow_3">
               <div class="slideshow_heading">
                   <h3 class="slideshow_h3">We make brands Shine</h3>
